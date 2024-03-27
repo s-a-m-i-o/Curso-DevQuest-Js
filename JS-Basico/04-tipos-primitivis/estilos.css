@@ -51,7 +51,7 @@ main {
 
 .conteudo-geral .exemplo {
     border: 2px solid black;
-    box-shadow: 1px 1px 10px ;
+    box-shadow: 5px 0px 15px ;
     margin: 5px;
     padding: 15px;
 }
