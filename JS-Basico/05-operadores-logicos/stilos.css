@@ -65,3 +65,17 @@ main .conteudo-geral .mesmo-tema .explicacao .js {
     background-color: #fff;
     padding: 10px;
 }
+
+main .conteudo-geral .mesmo-tema .explicacao .js .resposta{
+    color: green;
+    border-top: 1px solid green;
+    margin-top: 3px;
+}
+
+
+@media (max-width:768px) {
+
+    main .conteudo-geral .mesmo-tema {
+        flex-direction: column;
+    }
+}
