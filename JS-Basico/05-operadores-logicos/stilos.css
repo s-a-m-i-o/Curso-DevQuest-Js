@@ -31,6 +31,8 @@ main .conteudo-geral {
 main .conteudo-geral .mesmo-tema {
     display: flex;
     margin: 20px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
 }
 
 main .conteudo-geral .mesmo-tema .explicacao {
@@ -72,10 +74,3 @@ main .conteudo-geral .mesmo-tema .explicacao .js .resposta{
     margin-top: 3px;
 }
 
-
-@media (max-width:768px) {
-
-    main .conteudo-geral .mesmo-tema {
-        flex-direction: column;
-    }
-}
