@@ -1,0 +1,13 @@
+@media (max-width:450px) {
+    .conteudo-geral .conteudo .js img {
+        width: 300px;
+        border: 5px solid #505050;
+    }
+}
+
+@media (max-width:350px) {
+    .conteudo-geral .conteudo .js img {
+        width: 200px;
+        border: 5px solid #0e0d0d;
+    }
+}
