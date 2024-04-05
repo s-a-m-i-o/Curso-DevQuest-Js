@@ -1,7 +1,16 @@
 @media (max-width:450px) {
+    
+    .header {
+        margin-top: 50px;
+    }
+
     .conteudo-geral .conteudo .js img {
         width: 300px;
         border: 5px solid #505050;
+    }
+
+    .conteudo-geral .conteudo-explicado{
+        width: 80%;      
     }
 }
 
@@ -9,5 +18,14 @@
     .conteudo-geral .conteudo .js img {
         width: 200px;
         border: 5px solid #0e0d0d;
+    }
+
+    .header {
+        margin-top: 30px;
+    }
+
+    .conteudo-geral .conteudo-explicado{
+        width: 80%;
+      
     }
 }
