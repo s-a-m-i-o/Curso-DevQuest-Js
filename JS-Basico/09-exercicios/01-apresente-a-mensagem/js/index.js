@@ -1,3 +1,3 @@
-// let nomePessoa = prompt("Digite seu nome")
+const nomePessoa = prompt("Digite seu nome")
 
-// alert('Seja bem vindo, ' +nomePessoa)
+alert('Seja bem vindo, ' +nomePessoa + ' !')
