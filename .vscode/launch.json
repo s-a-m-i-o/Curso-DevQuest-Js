@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "pwa-chrome",
             "request": "launch",
             "name": "Iniciar o Node.js em relação a localhost",
-            "url": "http://localhost:8080",
+            "url": "http://127.0.0.1:5501/",
             "webRoot": "${workspaceFolder}"
         }
     ]
