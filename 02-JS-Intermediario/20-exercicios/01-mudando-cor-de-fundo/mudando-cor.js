@@ -6,3 +6,4 @@ function mudandoCorFundo() {
     quadradoUm.style.backgroundColor = "yellow";
 
 }
+
